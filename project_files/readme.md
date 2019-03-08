@@ -20,9 +20,9 @@ Upon login, the employee's username and password allows for retrieval of the emp
 ### Assumptions
 	-Each employee has a unique ID in the company to identify the employee by
 
-## Things to Improve
+## Things to Consider
 	- More rigorous testing: Although basic functionality has been tested for, not all aspects of the webapp have unit tests.
-	- Sanitizing SQL inputs
+	- Sanitizing SQL inputs: For the sake of this exercise, the SQL inputs are not sanitized, but were this an actual webapp, every input should be sanitized and checked to contain only alphanumeric characters.
 	
 
 
