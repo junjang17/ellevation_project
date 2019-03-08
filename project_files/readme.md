@@ -22,7 +22,8 @@ Upon login, the employee's username and password allows for retrieval of the emp
 
 ## Things to Consider
 	- More rigorous testing: Although basic functionality has been tested for, not all aspects of the webapp have unit tests.
-	- Sanitizing SQL inputs: For the sake of this exercise, the SQL inputs are not sanitized, but were this an actual webapp, every input should be sanitized and checked to contain only alphanumeric characters.
+	- Sanitizing SQL inputs: For the sake of this exercise, the SQL inputs are not sanitized, but were this an actual webapp, 
+	every input should be sanitized and checked to contain only alphanumeric characters.
 	
 
 
